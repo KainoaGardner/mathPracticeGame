@@ -20,8 +20,9 @@ incorrectSound.set_volume(.5)
 
 
 white = "#ecf0f1"
-gray = "#bdc3c7"
-darkGray = "#636e72"
+gray = "#575757"
+# gray = "#7f8c8d"
+darkGray = "#282828"
 lightGray = "#bdc3c7"
 red = "#e74c3c"
 green = "#2ecc71"

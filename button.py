@@ -32,10 +32,11 @@ homeButton.pressed = True
 addButton = Button(100,0,100,100,"+-",50,gray)
 multiplyButton = Button(200,0,100,100,"*",50,gray)
 divideButton = Button(300,0,100,100,"/",50,gray)
-cashButton = Button(400,0,100,100,"$",50,gray)
-rememberButton = Button(500,0,100,100,"memory",20,gray)
+moneyButton = Button(400,0,100,100,"$",50,gray)
+memoryButton = Button(500,0,100,100,"memory",20,gray)
 puzzleButton = Button(600,0,100,100,"puzzle",25,gray)
 
 
 
-buttons = [homeButton,addButton,multiplyButton,divideButton,cashButton,rememberButton,puzzleButton]
+
+buttons = [homeButton,addButton,multiplyButton,divideButton,moneyButton,memoryButton,puzzleButton]
